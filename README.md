@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **getting into the IT industry,**
 
-- 🌱 I’m currently learning **learning frontend development!**
+- 🌱 I’m currently learning **frontend development!**
 <br>
 <hr>
 <br>
