@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Lachlan</h1>
-<h3 align="center">An aspiring frontend developer based in NSW, Australia</h3>
 
 - 🔭 I’m currently working on **getting into the IT industry!**
 
-- 🌱 I’m currently learning **HTML 5 + CSS 3**
+- 🌱 I’m currently studying at TAFE and learning **HTML 5 + CSS 3** and **Python**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
