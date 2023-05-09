@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Lachlan</h1>
 
-- 🔭 I’m currently working on **getting into the IT industry!**
+- 🔭 I’m a **Service Desk Level 1 Technician!**
 
-- 🌱 I’m currently studying at TAFE and learning **HTML 5 + CSS 3** and **Python**
+- 🌱 I’m currently studying at TAFE NSW and learning **HTML 5 + CSS 3**, **Python**, and **SQL**.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
