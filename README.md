@@ -2,7 +2,7 @@
 
 - 🔭 I’m a **Service Desk Level 1 Technician!**
 
-- 🌱 I’m currently studying at TAFE NSW and learning **HTML 5 + CSS 3**, **Python**, and **SQL**.
+- 🌱 I’m currently studying a Diploma of Information Technology and learning **C++ & Arduino** in my personal time.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
